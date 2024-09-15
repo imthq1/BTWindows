@@ -1,0 +1,14 @@
+C:\Users\trank\source\repos\Student\Student\bin\Debug\Student.exe.config
+C:\Users\trank\source\repos\Student\Student\bin\Debug\Student.exe
+C:\Users\trank\source\repos\Student\Student\bin\Debug\Student.pdb
+C:\Users\trank\source\repos\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\trank\source\repos\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\trank\source\repos\Student\Student\obj\Debug\Student.exe
+C:\Users\trank\source\repos\Student\Student\obj\Debug\Student.pdb
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\bin\Debug\Student.exe.config
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\bin\Debug\Student.exe
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\bin\Debug\Student.pdb
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\obj\Debug\Student.exe
+C:\Users\xamth\OneDrive\Máy tính\Student\Student\obj\Debug\Student.pdb
