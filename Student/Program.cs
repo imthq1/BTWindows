@@ -67,6 +67,7 @@ namespace Student
             {
                 Console.WriteLine($"ID: {student.ID}, Name: {student.Name}, Age: {student.Age}");
             }
+            Console.ReadKey();
         }
     }
 }
